@@ -23,12 +23,12 @@ canvas{
 }
 
 @keyframes example{
-    from{box-shadow: 1px 1px 38px  gray}
-    to{box-shadow: 1px 1px 38px  cornsilk}
+    from {box-shadow: 1px 1px 38px  gray};
+    to {box-shadow: 1px 1px 38px  cornsilk};
 }
 
 
 p{
-    padding: top 10px;
+    padding-top: 10px;
     font-size:25px;
 }
